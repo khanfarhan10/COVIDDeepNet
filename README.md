@@ -10,8 +10,8 @@
 [![Website](https://img.shields.io/badge/tutorial-website-cyan)](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
 [![Authors](https://img.shields.io/badge/authors-view-orange)](https://khanfarhan10.github.io/research/COVIDDEEPNET_AUTHORS/)
 [![Website-Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkhanfarhan10.github.io%2Fresearch%2FCOVIDDEEPNET%2F)](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
-[![View Paper](https://img.shields.io/badge/research%20paper-PRAI--Springer-brightgreen)](https://github.com/khanfarhan10/COVIDDeepNet)
-
+[![View Paper](https://img.shields.io/badge/research%20paper-EAI--GOODTECHS-brightgreen)](https://github.com/khanfarhan10/COVIDDeepNet)
+<!--EAI GOODTECHS 2021-->
 [View the Blog Post for this Paper!](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
 
-Code Tutorial and Working Documentation for the proposed model COVIDDeepNet : which will help in COVID-19 Predictions by analyzing Post Anterior Views of Chest X-rays Medical Imaging. Awaiting the responses from [Progress in Artificial Intelligence](https://www.springer.com/journal/13748) ([Springer Nature](https://www.springer.com/gp/computer-science/ai)) for publishing to finally release the code and demos. 
+Code Tutorial and Working Documentation for the proposed model COVIDDeepNet : which will help in COVID-19 Predictions by analyzing Post Anterior Views of Chest X-rays Medical Imaging. Awaiting the responses from [EAI GOODTECHS 2021](https://goodtechs.eai-conferences.org/2021/) ([SpringerLink Digital Library](https://link.springer.com/)) for publishing to finally release the code and demos. 
