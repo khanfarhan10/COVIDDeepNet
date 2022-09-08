@@ -14,6 +14,6 @@
 <!--EAI GOODTECHS 2021-->
 [View the Blog Post for this Paper!](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
 
-[View the Research Paper on the Springer Website!]([https://khanfarhan10.github.io/research/COVIDDEEPNET/](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5#chapter-info)
+[View the Research Paper on the Springer Website!](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5#chapter-info)
 
 Code Tutorial and Working Documentation for the proposed model COVIDDeepNet : which will help in COVID-19 Predictions by analyzing Post Anterior Views of Chest X-rays Medical Imaging. Awaiting the responses from [EAI GOODTECHS 2021](https://goodtechs.eai-conferences.org/2021/) ([SpringerLink Digital Library](https://link.springer.com/)) for publishing to finally release the code and demos. 
