@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/badge/tutorial-website-cyan)](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
 [![Authors](https://img.shields.io/badge/authors-view-orange)](https://khanfarhan10.github.io/research/COVIDDEEPNET_AUTHORS/)
 [![Website-Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fkhanfarhan10.github.io%2Fresearch%2FCOVIDDEEPNET%2F)](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
-[![View Paper](https://img.shields.io/badge/research%20paper-EAI--GOODTECHS-brightgreen)](https://github.com/khanfarhan10/COVIDDeepNet)
+[![View Paper](https://img.shields.io/badge/research%20paper-Springer-brightgreen)](https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5#chapter-info)
 <!--EAI GOODTECHS 2021-->
 [View the Blog Post for this Paper!](https://khanfarhan10.github.io/research/COVIDDEEPNET/)
 
